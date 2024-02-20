@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The 6.21v isthe latest and the only stable release so there isn't security release for other
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,9 +10,4 @@ currently being supported with security updates.
 | other   | :x:                |
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If there is a vulnerability in the program please report it in [Issues](https://github.com/Spoutnik31/XMR-Miner/issues) or contact me with [binarydoc.fr](https://www.binarydoc.fr/contact/)
